@@ -23,7 +23,7 @@ _start:
     int 0x80
 
 
-**OS**       : i3, macOS  
+*OS*       : i3, macOS  
 **Languages**: C, ASM, Py  
 **Editor**   : VIM, forever and ever  
 **Debugging**: Bit by bit, step by step  
