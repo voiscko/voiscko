@@ -21,7 +21,7 @@ _start:
     mov eax, 1
     xor ebx, ebx
     int 0x80
-
+```asm
 
 **OS**       : i3, macOS  
 **Languages**: C, ASM, Py  
