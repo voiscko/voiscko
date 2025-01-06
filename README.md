@@ -21,7 +21,7 @@ _start:
     mov eax, 1
     xor ebx, ebx
     int 0x80
-**```
+```
 
 
 **OS**       : i3, macOS  
