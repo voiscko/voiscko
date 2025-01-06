@@ -24,9 +24,9 @@ _start:
 ```
 
 ```asm
-**OS**       : i3, macOS  
-**Languages**: C, ASM, Py  
-**Editor**   : VIM, forever and ever  
-**Debugging**: Bit by bit, step by step  
-**Motto**    : Seek strength. The rest will follow.
+OS       : Win11 / Arch Linux  
+Languages: C++, C#, Py  
+Editor: Visual Studio – where bugs retire; Visual Studio Code – the Swiss Army knife for coding!  
+Debugging: Bit by bit, step by step  
+Motto    : 8 Bytes are 1 Bit.
 ```
