@@ -1,16 +1,30 @@
-## Hi there 👋
+# voiscko
 
-<!--
-**voiscko/voiscko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+French Freelance Developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+section .data
+msg db 'voiscko', 0
+section .text
+global _start
+_start:
+mov eax, 4
+mov ebx, 1
+mov ecx, msg
+mov edx, 7
+int 0x80
+text
+mov eax, 1
+xor ebx, ebx
+int 0x80
+text
+
+---
+
+**OS**       : i3, macOS  
+**Languages**: C, ASM, Py  
+**Editor**   : VIM, forever and ever  
+**Debugging**: Bit by bit, step by step  
+**Motto**    : Seek strength. The rest will follow.
