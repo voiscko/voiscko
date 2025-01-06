@@ -1,4 +1,4 @@
-![Active 2025](https://img.shields.io/badge/since-2025-red)
+![Active 2025](https://img.shields.io/badge/new_start-2025-red)
 # voiscko
 
 ## About Me
