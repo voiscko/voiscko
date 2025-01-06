@@ -24,13 +24,9 @@ _start:
 ```
 
 ```asm
-OS```       : Win11 / Arch Linux
-```asm
-Languages```: C++, C#, Py
-```asm
-Editor```: VS – bugs retire. VS Code – saves code!
-```asm
-Debugging```: Bit by bit, step by step
-```asm
-Motto```    : 8 Bytes are 1 Bit.
+OS       : Win11 / Arch Linux
+Languages: C++, C#, Py
+Editor: VS – bugs retire. VS Code – saves code!
+Debugging: Bit by bit, step by step
+Motto    : 8 Bytes are 1 Bit.
 ```
