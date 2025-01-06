@@ -2,7 +2,7 @@
 # voiscko
 
 ## About Me
-French Freelance Developer.
+German Freelance Developer.
 
 ```asm
 section .data
@@ -23,9 +23,10 @@ _start:
     int 0x80
 ```
 
-
+```asm
 **OS**       : i3, macOS  
 **Languages**: C, ASM, Py  
 **Editor**   : VIM, forever and ever  
 **Debugging**: Bit by bit, step by step  
 **Motto**    : Seek strength. The rest will follow.
+```
