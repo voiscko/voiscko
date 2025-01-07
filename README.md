@@ -1,4 +1,4 @@
-![Active 2025](https://img.shields.io/badge/new_start-2025-red)    ![Flipper Zero Content](https://img.shields.io/badge/Flipper_Zero_Content-ACTIVE-green)
+![joined](https://img.shields.io/badge/joined-2019-blue)  ![Active 2025](https://img.shields.io/badge/new_start-2025-red)  ![Flipper Zero Content](https://img.shields.io/badge/Flipper_Zero_Content-ACTIVE-green)
 # voiscko
 
 ## About Me
