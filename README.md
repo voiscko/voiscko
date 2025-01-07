@@ -3,6 +3,7 @@
 
 ## About Me
 German Freelance Developer.
+Contact me here: https://t.me/voiscko
 
 ```asm
 section .data
