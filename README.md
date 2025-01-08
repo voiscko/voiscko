@@ -25,11 +25,10 @@ _start:
 ```
 
 ```asm
-OS       : Win11 / Arch Linux
-Languages: C++, C#, Py
-Editor   : VS – bugs retire. VS Code – saves code!
-Debugging: Bit by bit, step by step
-Motto    : 8 Bytes are 1 Bit.
+OS         : Win11 / Arch Linux
+Editor     : VS – bugs retire. VS Code – saves code!
+Debugging  : Bit by bit, step by step
+Motto      : 8 Bytes are 1 Bit.
 ```
 
 <h3 align="left">Languages and Tools:</h3>
