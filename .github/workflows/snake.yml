@@ -14,9 +14,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # Schritt 1: Repository auschecken
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Schritt 2: GitHub Contributions Snake Animation erstellen
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -28,10 +30,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Schritt 3: Animation in den 'output'-Branch hochladen
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          allow_empty_commit: true
+          force_orphan: false
           commit_message: "Update snake animation [skip ci]"
