@@ -25,7 +25,7 @@ _start:
 ```
 
 ```asm
-OS         : Win11 / Arch Linux
+OS         : Win11 / Arch Linux / MacOS
 Editor     : VS – bugs retire. VS Code – saves code!
 Debugging  : Bit by bit, step by step
 Motto      : 8 Bytes are 1 Bit.
