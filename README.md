@@ -3,7 +3,6 @@
 
   <img alt="Reconfig Scheduled" src="https://img.shields.io/badge/Reconfig_Scheduled-2025_CE-orange?style=for-the-badge" />
 
-  <img alt="Current Project" src="https://img.shields.io/badge/Current_Project-Flipper_Zero_Content-lightgrey?style=for-the-badge" />
   <img alt="Status" src="https://img.shields.io/badge/Status-OPERATIONAL-brightgreen?style=for-the-badge" />
 </p>
 
