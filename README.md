@@ -6,6 +6,7 @@
   <img alt="Current Project" src="https://img.shields.io/badge/Current_Project-Flipper_Zero_Content-lightgrey?style=for-the-badge" />
   <img alt="Status" src="https://img.shields.io/badge/Status-OPERATIONAL-brightgreen?style=for-the-badge" />
 </p>
+
 # voiscko
 [Discord](https://discord.com/users/1155541621044162711)
 [Telegram](https://t.me/voiscko)
