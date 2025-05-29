@@ -10,15 +10,6 @@
 [Discord](https://discord.com/users/1155541621044162711)
 [Telegram](https://t.me/voiscko)
 
-<p align="left">
-  <a href="https://discord.com/users/1155541621044162711" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" alt="Discord" width="30" height="30"/>
-  </a>
-  <a href="https://t.me/voiscko" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
-  </a>
-</p>
-
 ## About Me
 German Freelance Developer.
 
