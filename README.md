@@ -1,4 +1,13 @@
-![joined](https://img.shields.io/badge/joined-2022-blue)  ![Active 2025](https://img.shields.io/badge/new_start-2025-red)  ![Request everything](https://img.shields.io/badge/Flipper_Zero_Content-ACTIVE-green)
+<p align="left">
+  <img alt="Initialized" src="https://img.shields.io/badge/Status-Initialized-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Deployed" src="https://img.shields.io/badge/Deployment-2022-informational?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img alt="Re-Factored" src="https://img.shields.io/badge/System_Reboot-2025-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Optimizing" src="https://img.shields.io/badge/Current_Status-Optimizing-red?style=for-the-badge&logo=terminal&logoColor=white" />
+
+  <img alt="Flipper Zero Project" src="https://img.shields.io/badge/Project-Flipper_Zero_Content-lightgrey?style=for-the-badge&logo=flipper-zero&logoColor=white" />
+  <img alt="ACTIVE" src="https://img.shields.io/badge/State-ACTIVE-brightgreen?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cuZ3JhaC5waC9wZ3MiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMiAyQzYuNDc3IDIgMiA2LjQ3NyAyIDEyczQuNDc3IDEwIDEwIDEwIDEwLTQuNDc3IDEwLTEwUzE3LjUyMyAyIDEyIDJ6bS0xLjA0IDExLjkybC0yLjQ4LTIuNDgtMS40MTQgMS40MTQgMy44OTQgMy44OTQgNy4wNzEtNy4wNzEtMS40MTQtMS40MTRsLTUuNjU3IDUuNjU3eiIvPjwvc3ZnPg%3D%3D" />
+</p>
 # voiscko
 [Discord](https://discord.com/users/1155541621044162711)
 [Telegram](https://t.me/voiscko)
