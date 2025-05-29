@@ -1,10 +1,9 @@
 <p align="left">
-  <a href="https://discord.com/users/1155541621044162711" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg" alt="Discord" width="30" height="30" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://t.me/voiscko" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" alt="Telegram" width="30" height="30" style="vertical-align: middle;"/>
-  </a>
+  <img alt="System Init" src="https://img.shields.io/badge/System_Init-2022_CE-blue?style=for-the-badge" />
+
+  <img alt="Reconfig Scheduled" src="https://img.shields.io/badge/Reconfig_Scheduled-2025_CE-orange?style=for-the-badge" />
+
+  <img alt="Status" src="https://img.shields.io/badge/Status-OPERATIONAL-brightgreen?style=for-the-badge" />
 </p>
 
 # voiscko
