@@ -35,7 +35,7 @@
 <p align="left">
   <!-- Feel free to change the icons! List of all available icons: https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,linux,git,bash,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,linux,git,bash,docker,vscode,nodejs,ts,react,nextjs,vercel,supabase,tailwind" />
   </a>
 </p>
 
