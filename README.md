@@ -9,7 +9,7 @@
 </p>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=German+Freelance+Developer.;Low-Level+Enthusiast.;Crafting+elegant+solutions." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=root@voiscko:~%23+whoami;German+Freelance+Developer;root@voiscko:~%23+./init_system.sh;System+operational." alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://discord.com/users/1155541621044162711">
@@ -35,7 +35,7 @@
 <p align="left">
   <!-- Feel free to change the icons! List of all available icons: https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,linux,git,bash,docker,vscode,nodejs,ts,react,nextjs,vercel,supabase,tailwind" />
+    <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,linux,git,nodejs,vercel,supabase" />
   </a>
 </p>
 
